@@ -1,6 +1,6 @@
 # outerspace
 
-Basic simple application using Vue 3 composition API and Vite.
+Basic simple application using Vue 3 composition API and Vite. A working example of this application can be seen at https//www.outerspacebook.com
 
 
 ## Customize configuration
