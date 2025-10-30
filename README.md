@@ -23,4 +23,10 @@ npm run dev
 
 ```sh
 npm run build
+
 ```
+
+<img width="1769" height="1176" alt="outerspace" src="https://github.com/user-attachments/assets/7df96948-8cc3-4ec2-8e89-024b4bf06337" />
+
+
+
